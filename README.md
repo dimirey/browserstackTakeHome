@@ -1,7 +1,9 @@
 # browserstackTakeHome
 
 Installation steps:
-  npm i
+
+    npm i
   
  How to run:
-  npx wdio run wdio.conf.js
+ 
+    npx wdio run wdio.conf.js
