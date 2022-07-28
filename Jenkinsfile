@@ -5,7 +5,7 @@ pipeline {
     stage('Build') {
       steps {
         npm install
-        npx wdio run wdio.conf.js
+        // npx wdio run wdio.conf.js
       }
     }
   }
